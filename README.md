@@ -184,7 +184,7 @@
 ## 13. 파일 구성 예시
 
 ```bash
-team_project_pipeline_final/
+travel-pipeline/
 │
 ├── README.md
 ├── travel_pipeline_final.ipynb
